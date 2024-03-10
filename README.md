@@ -1,9 +1,7 @@
-(https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/382232389_1374812470081301_875772815307944972_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0NPdFPo71IMAX9zZF5t&_nc_ht=scontent.fdac5-2.fna&oh=00_AfApiEyb2CbdalufEirihZI_e6J67CfyuwNl9ed-rgxdNw&oe=65F1CC71)
-
-
 ### Hi there 👋, my name is Ak A Sh
 #### Also known as ZeroKnowledge
-![Also known as ZeroKnowledge]
+![Also known as ZeroKnowledge](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/382232389_1374812470081301_875772815307944972_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0NPdFPo71IMAX9zZF5t&_nc_ht=scontent.fdac5-2.fna&oh=00_AfApiEyb2CbdalufEirihZI_e6J67CfyuwNl9ed-rgxdNw&oe=65F1CC71)
+
 
 Skills: HTML / CSS
 
